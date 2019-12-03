@@ -16,4 +16,4 @@ Real-time Distance Measurement between a camera and an object using single image
 
 **Find distance from camera to object**
 
-[https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/]
+https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/
